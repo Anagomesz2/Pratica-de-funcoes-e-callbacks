@@ -11,6 +11,5 @@ function calcular(a, b, operacao) {
   console.log(`O resultado da operação é: ${resultado}`);
 }
 
-// Testes das duas operações
-calcular(5, 3, somar);        // Exibe: 8
-calcular(4, 3, multiplicar);  // Exibe: 12
+calcular(5, 3, somar);        
+calcular(4, 3, multiplicar);

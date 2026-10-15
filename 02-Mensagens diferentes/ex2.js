@@ -10,6 +10,5 @@ function executarMensagem(callback) {
   callback();
 }
 
-// Testando com ambas as funções
 executarMensagem(mostrarBoasVindas);
 executarMensagem(mostrarDespedida);

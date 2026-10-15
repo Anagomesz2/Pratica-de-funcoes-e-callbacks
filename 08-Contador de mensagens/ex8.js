@@ -4,7 +4,6 @@ function repetirAcao(vezes, callback) {
   }
 }
 
-// Teste do contador
 repetirAcao(4, i => {
   console.log(`Execução número ${i}`);
 });
